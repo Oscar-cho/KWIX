@@ -1,1 +1,1 @@
-DQN Algorithm을 활용한 자율 주행 모듈델
+DQN Algorithm을 활용한 자율 주행 모델
